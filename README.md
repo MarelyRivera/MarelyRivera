@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarelyRivera
-- 👀 I’m interested in computer science particurlary cybersecurity
-- 🌱 I’m currently learning courses on cybersecurity
+- 👀 I’m majoring in Computer Science
+- 🌱 I’m currently learning courses in cybersecurity and web development
 - 📫 How to reach me: amarely.rivera24@gmail.com
 
 <!---
